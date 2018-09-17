@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Project Outline \& Guidelines}
+\author{Omar Eldash }
+\date{September 2018}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\section{Teams will be labeled as}
+
+Team A \\
+Team B \\
+Team C (lone ranger) \\
+
+\section{Guidelines}
+The project shall consist of the implementation and adoption of:\\
+-	Communication protocols (1 Protocol is enough for Team C)\\
+-	Computation intensive process (less intensity for Team C)\\
+-	ML Algorithm implemented and coordinated between UC and FPGA (Team C can implement a simpler one on a single platform)\\
+-	Multiple sensors and actuators to be used (Team C can choose to work with either sensing or actuation\\
+
+\section{Reporting}
+
+At each stage of the project, It will be good to report part on its own before final report \\
+-	I expect monthly reports of utilization, timing, power consumption, challenges and remaining tasks. Reports are expected on such dates \\
+	-\hspace{1cm}  October 2nd\\
+    -\hspace{1cm}Nov. 6th \\
+	-\hspace{1cm}Final report at the end of the semester\\
+-	It’s recommended to use LaTex for reporting, which would be an additional experience. It’s not mandatory. To facilitate this I will send a template that should make things much easier.\\
+
+\section{Project Ideas}
+
+Identifying objects using camera as part of a bigger system \\
+	Systems may include robotics/drones/health/etc. \\
+Identification of different types of items and optimizing/replacing FPGA implementation based on each of those. \\
+	Example for that is having a high and low quality versions of identification algorithm\\
+ 	Another example is to identify two objects of different nature that requires different algorithms (like voice/photo , heart pulse/photo tracking)
+
+
+
+\end{document}
