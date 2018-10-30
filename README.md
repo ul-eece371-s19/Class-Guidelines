@@ -24,3 +24,7 @@ ftp://ftp.intel.com/Pub/fpgaup/pub/Intel_Material/17.0/Tutorials/Schematic/Quart
 Verilog guidelines
 https://class.ece.uw.edu/371/peckol/doc/Always@.pdf
 http://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/verilog_modules.pdf
+
+
+Webinar for energy efiicient Deep Learning
+http://resourcecenter.sscs.ieee.org/sscs/product/webinars/SSCSWEB3047
