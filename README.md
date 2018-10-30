@@ -16,6 +16,10 @@ https://www.mentor.com/company/higher_ed/modelsim-student-edition
 Quartus Prim Lite Edition
 http://fpgasoftware.intel.com/?edition=lite
 
+Quartus Guides
+ftp://ftp.intel.com/Pub/fpgaup/pub/Intel_Material/17.0/Tutorials/Verilog/Quartus_Pro_Introduction.pdf
+ftp://ftp.intel.com/Pub/fpgaup/pub/Intel_Material/17.0/Tutorials/Schematic/Quartus_II_Introduction.pdf
+
 
 Verilog guidelines
 https://class.ece.uw.edu/371/peckol/doc/Always@.pdf
