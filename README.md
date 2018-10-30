@@ -15,3 +15,8 @@ https://www.mentor.com/company/higher_ed/modelsim-student-edition
 
 Quartus Prim Lite Edition
 http://fpgasoftware.intel.com/?edition=lite
+
+
+Verilog guidelines
+https://class.ece.uw.edu/371/peckol/doc/Always@.pdf
+http://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/verilog_modules.pdf
