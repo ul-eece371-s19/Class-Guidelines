@@ -28,3 +28,14 @@ http://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/verilog_modules.
 
 Webinar for energy efiicient Deep Learning
 http://resourcecenter.sscs.ieee.org/sscs/product/webinars/SSCSWEB3047
+
+
+Helpful FPGA projects for MKR VIDOR 4000
+https://systemes-embarques.fr/wp/telechargement/
+
+Port mapping help
+https://systemes-embarques.fr/wp/brochage-connecteur-mkr-vidor-4000/
+
+
+Slack Workspace
+https://uleece371.slack.com
