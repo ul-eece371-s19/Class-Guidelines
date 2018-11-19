@@ -39,3 +39,19 @@ https://systemes-embarques.fr/wp/brochage-connecteur-mkr-vidor-4000/
 
 Slack Workspace
 https://uleece371.slack.com
+
+
+Grading Criteria
+
+Project 60%
+Presentation 10%
+Lab and Assignments 30%
+
+Project grading details:
+25% Reports
+25% Machine Learning 
+30% Embedded System Implementation
+10% Project operation
+10% Indidividula Role Assesment
+
+Final Report and Project Submission is Due Dec. 6th
