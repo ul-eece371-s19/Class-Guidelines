@@ -53,5 +53,8 @@ Project grading details:
 30% Embedded System Implementation
 10% Project operation
 10% Indidividula Role Assesment
+(Bonus) 10% FPGA implementation
 
 Final Report and Project Submission is Due Dec. 6th
+
+
