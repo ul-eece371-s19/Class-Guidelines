@@ -3,12 +3,16 @@
 This repo shall include different guidelines for the class and projects
 
 
+Hardware:
+
+MKR VIDOR 4000
+https://www.arduino.cc/en/Guide/MKRVidor4000#toc4
+
 Important Tools 
 
 
 Arduino IDE
 https://www.arduino.cc/en/Main/Software
-
 
 Modelsim Student (Follow the steps of installation and directions to get the license)
 https://www.mentor.com/company/higher_ed/modelsim-student-edition
