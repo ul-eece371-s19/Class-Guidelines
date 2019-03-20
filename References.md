@@ -20,3 +20,7 @@ https://cs.stanford.edu/people/karpathy/convnetjs/
 
 [2] Google Playground
 https://playground.tensorflow.org/
+
+
+Hardware Efficient Deep Learning Tutorial (MIT/Eyeriss)
+http://eyeriss.mit.edu/tutorial.html
